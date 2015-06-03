@@ -1,0 +1,34 @@
+* {
+	box-sizing: border-box;
+}
+html,
+body,
+.wrap {
+  height: 100%;
+  margin: 0;
+}
+.wrap {
+  background: url('boat.jpg') no-repeat;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  color: #fff;
+  font-size: 18em;
+	padding-top: 210px; 
+	padding-left: 280px; 
+  margin: 0;
+  text-shadow: 2px 2px 5px rgba(0,0,0, .4);
+  -webkit-animation: path 2s ease-in forwards;
+  animation: path 2s ease-in forwards;
+	/*-webkit-clip-path: url('#clipPolygon');*/
+}
+
+@-webkit-keyframes path {
+  0% {
+  	-webkit-clip-path: polygon(0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0);
+  }
+  100% {
+		-webkit-clip-path: polygon(14px 572px,10px 10px,915px 11px,922px 433px,730px 389px,593px 351px,580px 353px,612px 445px,646px 542px);
+  }
+}
