@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+}
+html,
+body,
+.wrap {
+  height: 100%;
+  margin: 0;
+}
+.wrap {
+  background: url('boat.jpg') no-repeat;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  color: #fff;
+  font-size: 18em;
+	padding-top: 180px;
+	padding-left: 280px;
+  margin: 0;
+  text-shadow: 2px 2px 5px rgba(0,0,0, .4);
+  -webkit-clip-path: polygon(704px 627px,702px 627px,701px 628px,697px 628px,697px 629px,694px 629px,687px 631px,672px 631px,670px 630px,666px 629px,662px 629px,658px 628px,655px 628px,637px 623px,631px 621px,617px 616px,606px 613px,598px 611px,578px 611px,562px 613px,553px 615px,519px 616px,502px 616px,492px 615px,477px 613px,392px 594px,331px 578px,305px 571px,284px 565px,230px 550px,199px 543px,188px 541px,166px 533px,152px 530px,136px 527px,123px 524px,95px 511px,89px 506px,81px 496px,79px 489px,75px 478px,74px 473px,72px 468px,69px 451px,68px 445px,67px 438px,67px 390px,68px 381px,68px 367px,69px 355px,69px 345px,70px 340px,70px 335px,71px 331px,71px 328px,73px 318px,74px 315px,74px 232px,75px 228px,78px 162px,81px 149px,81px 144px,82px 113px,82px 104px,81px 95px,80px 90px,79px 81px,79px 79px,81px 77px,81px 75px,85px 71px,89px 69px,94px 68px,102px 66px,107px 66px,109px 65px,117px 65px,118px 64px,122px 64px,128px 63px,131px 63px,138px 62px,158px 61px,175px 61px,210px 60px,225px 59px,258px 57px,283px 55px,312px 53px,367px 51px,398px 48px,429px 44px,466px 40px,489px 37px,510px 36px,534px 35px,580px 36px,602px 37px,647px 38px,695px 36px,721px 32px,737px 31px,777px 30px,793px 29px,805px 29px,817px 28px,839px 27px,846px 26px,851px 25px,861px 24px,866px 22px,874px 20px,881px 18px,892px 16px,906px 13px,922px 8px,944px 2px,1021px 2px,1021px 6px,1020px 9px,1018px 13px,1017px 13px,1017px 14px,1014px 16px,1011px 19px,1010px 21px,1009px 382px,1007px 383px,1006px 384px,1003px 384px,1001px 386px,997px 389px,995px 389px,994px 390px,991px 391px,988px 393px,984px 394px,982px 394px,977px 396px,974px 398px,971px 399px,969px 399px,968px 397px,965px 396px,964px 395px,959px 395px,1049px 397px,1052px 385px,1027px 383px,1026px 385px,1030px 396px,985px 416px,982px 429px,1004px 421px,1009px 414px,1034px 405px,999px 446px,991px 443px,978px 436px,956px 436px,890px 425px,800px 405px,873px 420px,855px 412px,875px 421px,839px 415px,817px 407px,814px 405px,781px 402px,761px 397px,736px 391px,708px 383px,580px 350px,594px 395px,599px 407px,601px 422px,608px 435px,612px 450px,622px 476px,627px 491px,634px 525px,635px 522px,638px 534px,642px 542px,645px 551px,649px 558px,657px 569px,654px 566px,653px 563px,658px 574px,659px 574px,667px 585px,663px 580px,670px 588px,675px 592px,678px 597px,663px 592px,666px 596px,668px 601px,669px 601px,672px 604px,672px 605px,673px 605px,675px 607px,675px 608px,676px 608px,678px 609px,679px 610px,681px 611px,684px 612px,687px 615px,691px 618px,694px 619px,695px 620px,698px 622px,701px 623px,707px 626px,712px 629px,714px 631px,716px 632px,717px 633px,717px 634px);
+
+}
